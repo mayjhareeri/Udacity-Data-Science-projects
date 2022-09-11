@@ -1,6 +1,7 @@
 
 # File description
 Analyzing Seattle Airbnb Data - Udacity Data Science Nano Program - First Project.ipynb: Notebook contains all my project.
+listings.csv: The data used in my analysis.
 # Project motivation
 
 This project is part of the Udacity Data Science Nanodegree program, where they have offered many datasets, I chose to analyze the Seattle Airbnb data.
@@ -8,6 +9,12 @@ This project is part of the Udacity Data Science Nanodegree program, where they 
 You can check all the analysis, steps and findings the medium post in the following link:
 
 https://medium.com/@mayjhareeri/aa0fd53a00aa
+
+# Data scource
+https://www.kaggle.com/datasets/airbnb/seattle
+
+# Acknowledgments
+This dataset is part of Airbnb Inside, and the original source can be found here.
  
  # Libraries used
  *Numpy
